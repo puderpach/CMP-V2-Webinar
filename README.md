@@ -1,1 +1,1 @@
-# https://puderpach.github.io/testpage-BrowserCMP-GTM/
+# https://puderpach.github.io/CMP-V2-Webinar/
